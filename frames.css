@@ -1,0 +1,14 @@
+ 
+  .whole-div{
+    width: 740px;
+    display: flex;
+    justify-content: space-between;
+    -ms-flex-align: end;
+    margin-right: 40px;
+    margin-top: 5px;
+        
+}
+.hug-flex{
+    display: flex;
+    justify-content: space-between;
+}
